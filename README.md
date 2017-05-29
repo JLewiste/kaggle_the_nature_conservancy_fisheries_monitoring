@@ -1,4 +1,4 @@
-# Kaggle-The-Nature-Conservancy-Fisheries-Monitoring
+# Kaggle: The nature conservancy fisheries monitoring
 
 ![Pictures](Pictures/fish.jpg)
 
